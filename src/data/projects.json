@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Expense-Tracker(MERN)",
+    "imageSrc": "projects/expense.jpg",
+    "description": " This is a MERN STACK Expense-Tracker Application",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://expense-tracker-pulak-mahata.cyclic.app/login",
+    "source": "https://github.com/pulak-mahata/Expense-Tracker-Mern"
+  },
+  {
+    "title": "Ecommerce Website",
+    "imageSrc": "projects/E3.png",
+    "description": " Front-End part of an Ecommerce Website using REACT JS.",
+    "skills": ["React", "JavaScript"],
+    "demo": "https://magical-caramel-d01b6c.netlify.app/",
+    "source": "https://github.com/pulak-mahata/Shopkart-using-react"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "  This is a Weather App. I have created this app using open-weather-api.",
+    "skills": ["React", "Open-Weather-Api"],
+    "demo": "https://pulak-mahata.github.io/weatherApp-using-api/",
+    "source": "https://github.com/pulak-mahata/weatherApp-using-api"
+  }
+ 
+]
