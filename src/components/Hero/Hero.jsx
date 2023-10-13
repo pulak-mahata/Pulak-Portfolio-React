@@ -16,12 +16,7 @@ export const Hero = () => {
           Contact Me
         </a>
         <span></span>
-<<<<<<< HEAD
-        <a href="images/Pulak.pdf" download className={styles.contactBtn}
-=======
-{/*         <a href="images/Pulak-Resume.pdf" download className={styles.contactBtn} */}
-          <a href={getImageUrl("hero/Pulak-Resume.pdf")} download className={styles.contactBtn}
->>>>>>> e8b3812ed1afb7075868d9e718da1702d1b21e3e
+        <a href="images/Pulak-Resume.pdf" download className={styles.contactBtn}
           >Download CV</a>
         </div>
        

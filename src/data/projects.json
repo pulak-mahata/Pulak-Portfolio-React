@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ecommerce Website",
+    "imageSrc": "projects/E.jpg",
+    "description": "This is a Full-Stack Ecommerce-Website",
+    "skills": ["React", "Javascript","Node.js","Express","JWT","Context API"],
+    "demo": "https://pulak-ecommerce.cyclic.app/",
+    "source": "https://github.com/pulak-mahata/Ecommerce-MERN-2023"
+  },
+  {
     "title": "Expense-Tracker(MERN)",
     "imageSrc": "projects/expense.jpg",
     "description": " This is a MERN STACK Expense-Tracker Application",
@@ -7,14 +15,7 @@
     "demo": "https://expense-tracker-pulak-mahata.cyclic.app/login",
     "source": "https://github.com/pulak-mahata/Expense-Tracker-Mern"
   },
-  {
-    "title": "Ecommerce Website",
-    "imageSrc": "projects/E3.png",
-    "description": " Front-End part of an Ecommerce Website using REACT JS.",
-    "skills": ["React", "JavaScript"],
-    "demo": "https://magical-caramel-d01b6c.netlify.app/",
-    "source": "https://github.com/pulak-mahata/Shopkart-using-react"
-  },
+  
   {
     "title": "Weather App",
     "imageSrc": "projects/weather.png",
